@@ -21,6 +21,4 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=islem182&show_icons=true&locale=en&layout=compact" alt="islem182" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=islem182&show_icons=true&locale=en" alt="islem182" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=islem182&" alt="islem182" /></p>
